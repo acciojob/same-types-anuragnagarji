@@ -17,4 +17,3 @@ if(value2[0]>=48&&value2[0]<=57){
 }
 
 alert(isSameType(value1,value2);
-//alert(typeof value1);
